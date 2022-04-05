@@ -63,5 +63,6 @@ namespace Part_6___Loops
                 lblOutput.Text = ("Invalid Entry");
             }
         }
+
     }
 }

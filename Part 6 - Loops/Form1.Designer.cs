@@ -90,7 +90,7 @@
             // lblOutput
             // 
             this.lblOutput.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblOutput.Location = new System.Drawing.Point(289, 26);
+            this.lblOutput.Location = new System.Drawing.Point(280, 20);
             this.lblOutput.Name = "lblOutput";
             this.lblOutput.Size = new System.Drawing.Size(197, 201);
             this.lblOutput.TabIndex = 6;
